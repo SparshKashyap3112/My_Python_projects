@@ -36,3 +36,5 @@ if st.button("Generate Password"):
 # Run the app
 if __name__ == "__main__":
     st.write("Customize your password options and click 'Generate Password'.")
+
+# streamlit run filename.py
